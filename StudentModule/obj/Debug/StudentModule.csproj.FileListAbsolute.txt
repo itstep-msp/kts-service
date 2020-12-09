@@ -1,1 +1,2 @@
 D:\Projects\MSP\KTS-Service\StudentModule\bin\Debug\StudentModule.exe.config
+D:\Projects\MSP\Laba1\kts-service\StudentModule\bin\Debug\StudentModule.exe.config
