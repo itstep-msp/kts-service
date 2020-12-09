@@ -1,0 +1,1 @@
+D:\Projects\MSP\KTS-Service\ManagerModule\bin\Debug\ManagerModule.exe.config

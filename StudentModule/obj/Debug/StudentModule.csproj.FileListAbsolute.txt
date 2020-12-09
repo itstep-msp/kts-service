@@ -1,0 +1,1 @@
+D:\Projects\MSP\KTS-Service\StudentModule\bin\Debug\StudentModule.exe.config
